@@ -26,6 +26,8 @@ This is a movie recommender system that uses tmdb_5000_movies.csv dataset from K
 
 To run install streamlit and pandas and run the following command:
 
+- Run movie_recommendation.ipynb in Jupyter Notebook
+
 "streamlit run app.py"
 
 It is best to install conda and create a virtual environment to run the app.
